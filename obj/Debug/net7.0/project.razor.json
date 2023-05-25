@@ -18660,6 +18660,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\DotnetProject\\workshop\\workshop\\Views\\Home\\Test.cshtml",
+      "TargetPath": "Views\\Home\\Test.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\DotnetProject\\workshop\\workshop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
